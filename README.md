@@ -6,7 +6,7 @@
 
 🎓 B.Com Graduate
 
-Data Analytics Learner
+🔬 Data Analytics Learner
 
 📊 Passionate about turning data into actionable insights
 
