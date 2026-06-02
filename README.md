@@ -3,6 +3,7 @@
 ### Aspiring Data Analyst | Power BI Developer | SQL Enthusiast
 
 📍 Gurugram, India
+
 🎓 B.Com Graduate
 Data Analytics Learner
 📊 Passionate about turning data into actionable insights
